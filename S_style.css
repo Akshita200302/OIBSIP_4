@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('pic1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+        .container {
+            max-width: 400px;
+            padding: 70px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: whitesmoke;
+            
+        }
+        .message {
+            margin-top: 10px;
+        }
